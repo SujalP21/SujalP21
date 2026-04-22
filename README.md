@@ -24,11 +24,9 @@ I'm a Computer Science student at **SRM Institute of Science and Technology**, p
 | Project | Description | Stack |
 |---|---|---|
 | [DePixAI](https://github.com/SujalP21/DePixAI) | AI-powered image enhancement/denoising tool | Python, OpenCV, ML |
+| [ConversAI](https://github.com/SujalP21/ConversAI) | Full-stack ChatGPT-style app with JWT auth, thread history, and markdown rendering | React, Express, MongoDB, OpenAI |
 | [SharpLearn](https://github.com/SujalP21/SharpLearn) | Ed-tech learning platform | JavaScript, Node.js |
 | [WanderLust](https://github.com/SujalP21/WanderLust) | Airbnb-style travel listing app | JavaScript, Express, MongoDB |
-| [Weathery](https://github.com/SujalP21/Weathery) | Real-time weather app | React.js |
-| [Portfolio](https://github.com/SujalP21/portfolio) | Personal portfolio website | CSS, JavaScript |
-
 ---
 
 ## 💻 Tech Stack
