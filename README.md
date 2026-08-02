@@ -2,9 +2,11 @@
 <h3 align="center">Full-Stack & AI/ML Developer · CS @ SRMIST · 450+ LeetCode Problems</h3>
 
 <p align="center">
+  <a href="https://www.sujalpareek.dev"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/pareeksujal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sujalpareek21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/SujalP21"><img src="https://img.shields.io/badge/LeetCode-450%2B%20Problems-FFA116?logo=leetcode&logoColor=white" /></a>
+  
 </p>
 
 ---
@@ -24,6 +26,9 @@ I'm a Computer Science student at **SRM Institute of Science and Technology**, p
 | Project | Description | Stack |
 |---|---|---|
 | [DePixAI](https://github.com/SujalP21/DePixAI) | AI-powered image enhancement/denoising tool | Python, OpenCV, ML |
+| [NexusMeet](https://github.com/SujalP21/NexusMeet) | Live video conferencing platform with peer-to-peer audio/video and screen sharing | React, Node.js, Express, Socket.IO, WebRTC, MongoDB |
+| [DocuTutor-RAG](https://github.com/SujalP21/DocuTutor-RAG) | RAG platform indexing 1,000+ document chunks for LangChain-based Q&A, 92% retrieval relevance | Python, LangChain, FastAPI, Redis, Vector DB |
+| [VoxCode](https://github.com/SujalP21/VoxCode) | Voice-driven web IDE with an autonomous LLM agent running a PLAN-TOOL-OBSERVE-OUTPUT loop | Python, FastAPI, WebSockets, JavaScript |
 | [ConversAI](https://github.com/SujalP21/ConversAI) | Full-stack ChatGPT-style app with JWT auth, thread history, and markdown rendering | React, Express, MongoDB, OpenAI |
 | [SharpLearn](https://github.com/SujalP21/SharpLearn) | Ed-tech learning platform | JavaScript, Node.js |
 | [WanderLust](https://github.com/SujalP21/WanderLust) | Airbnb-style travel listing app | JavaScript, Express, MongoDB |
